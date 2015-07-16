@@ -1,0 +1,18 @@
+easy:
+1-1
+1-2
+
+8-10
+
+medium:
+8-11
+8-12
+
+hard:
+8-13
+
+master:
+8-14
+
+Chapter 1 Arrays and Strings
+Hard: Matrix questions
