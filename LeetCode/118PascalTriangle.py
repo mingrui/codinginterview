@@ -13,3 +13,5 @@ class Solution(object):
         		else:
         			triangle[line][i] = triangle[line-1][i-1] + triangle[line-1][i]
         return triangle
+
+        
